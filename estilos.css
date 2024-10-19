@@ -1,0 +1,37 @@
+@charset "utf-8";
+#Video1 {
+    width: 560px;
+    height: 315px;
+    position: absolute;
+    z-index: 3;
+    left: 110px;
+    top: 36px;
+}
+#Video2 {
+    width: 560px;
+    height: 315px;
+    position: absolute;
+    z-index: 2;
+    top: 35px;
+    left: 110px;
+}
+#Video3 {
+    width: 560px;
+    height: 315px;
+    position: absolute;
+    z-index: 1;
+    left: 111px;
+    top: 37px;
+}
+#Thumbails {
+    width: 150px;
+    height: 314px;
+    position: absolute;
+    left: 708px;
+    top: 36px;
+}
+body {
+    background-image: url(Perro%20fondo.jpg);
+    /* [disabled]margin-top: 50px; */
+    /* [disabled]margin-left: 50px; */
+}
